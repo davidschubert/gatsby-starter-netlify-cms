@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: A beginners’ guide to brewing with Chemex
+title: Hier steht eine wichtige Headline für den Blogartikel
 date: 2022-01-10T15:04:10.000Z
 description: Brewing with a Chemex probably seems like a complicated,
   time-consuming ordeal, but once you get used to the process, it becomes a
@@ -8,8 +8,10 @@ description: Brewing with a Chemex probably seems like a complicated,
 featuredpost: false
 featuredimage: /img/chemex.jpg
 tags:
-  - brewing
-  - chemex
+  - Schnell was gelernt
+  - HTML
+  - CSS
+  - Personelles
 ---
 ![chemex](/img/chemex.jpg)
 
